@@ -2,6 +2,8 @@
 
 This project implements an A* pathfinding algorithm to find the shortest path on a terrain represented by a `.ppm` object. The goal is to navigate from a starting point to a destination while considering different terrain costs.
 
+Visit https://gauti1311.github.io/robot_path_planner/
+
 ## A* Implementation
 
 The A* algorithm is a widely used for pathfinding and graph traversal. It uses best-first search strategy to explore the graph. It is efficient and guarantees the shortest path if the heuristic is admissible.
