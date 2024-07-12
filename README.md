@@ -26,7 +26,7 @@ The terrain is represented as a grid, with each cell having a specific cost base
 
 ### Code Documentation
 
-Code documentation is done using Doxygen generator tool. It can be found at [documentation](html/index.html). It can be open in any browser.
+Code documentation is done using Doxygen generator tool. It can be found at [documentation](docs/html/index.html). It can be open in any browser.
 
 ## Build the project
 
